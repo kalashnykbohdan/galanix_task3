@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/galanix_task3/static/css/main.9d813f64.css",
+    "main.js": "/galanix_task3/static/js/main.969a9cce.js",
+    "index.html": "/galanix_task3/index.html",
+    "main.9d813f64.css.map": "/galanix_task3/static/css/main.9d813f64.css.map",
+    "main.969a9cce.js.map": "/galanix_task3/static/js/main.969a9cce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d813f64.css",
+    "static/js/main.969a9cce.js"
+  ]
+}
