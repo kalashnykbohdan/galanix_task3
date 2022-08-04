@@ -12,8 +12,6 @@ const SearchBar = ({ onSearch, onClean }) => {
 
   const handleChange = (e) => {
     setSearch(e.target.value);
-
-    console.log(search);
   };
 
   const handleClear = () => {
