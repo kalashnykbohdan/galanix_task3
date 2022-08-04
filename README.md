@@ -1,3 +1,23 @@
+if errors "main.eec519b0.js:2 Mixed Content: The page at 'https://kalashnykbohdan.github.io/galanix_task3/' was loaded over HTTPS, but requested an insecure resource 'http://universities.hipolabs.com/search?country=ukraine'. This request has been blocked; the content must be served over HTTPS."
+
+Steps to Allow Insecure Content in Chrome
+
+To allow insecure content on individual sites within Chrome, click on the lock icon in the URL bar, then click 'Site settings'.
+
+![image](https://user-images.githubusercontent.com/51840200/182864148-7fff2687-3400-4ecb-93c4-81e341ae41fd.png)
+
+enter image description here
+
+There you will see a list of various permissions the page has. Choose 'Allow' next to 'Insecure content'.
+
+![image](https://user-images.githubusercontent.com/51840200/182864200-e9330112-b093-47a4-ae60-82d2a59b2624.png)
+
+enter image description here
+
+Now your HTTPS site can access HTTP endpoint
+
+-----------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
